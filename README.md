@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Megaprograming1
+- 👀 I’m interested in coding I want to make Operating Systems
+- 🌱 I’m currently learning on scratch and how github works
+- 💞️ I’m looking to collaborate on making a search engine
+- 📫 How to reach me On scratch.mit.edu @Tristan-scratch
